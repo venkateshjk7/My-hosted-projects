@@ -3,3 +3,5 @@
 [instaclone](https://instaclone-in.vercel.app/)
 
 <a href="https://gradepoint.neocities.org/project/cpuscheduling/cpus">cpu scheduling</a>
+
+<a href="blog-frontend-pi-pearl.vercel.app">blog site</a>
